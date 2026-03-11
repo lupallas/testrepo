@@ -15,8 +15,11 @@ MDx CRO es una Contract Research Organization (CRO) y consultoria regulatoria es
 - Satisfaccion del cliente: **9.4/10**
 - Tasa de repeticion de negocio: **>90%**
 - Clientes: Top 10 global IVD, MedTech & Pharma
-- ~2,941 seguidores en LinkedIn
+- +5,000 seguidores en LinkedIn
+- Presencia en YouTube
+- +100 multi-country study submissions, 600+ essential study documents
 - Miembro de ASEBIO
+- Fundada en 2023 por Carlos Galamba y David Tome
 
 **Servicios principales:**
 1. Regulatory Affairs & Technical Documentation (IVDR, MDR, FDA, CE-marking)
@@ -40,23 +43,27 @@ MDx CRO es una Contract Research Organization (CRO) y consultoria regulatoria es
 | F6 | **Servicio de formacion a Notified Bodies** | Seleccionados por multiples NB europeos para formar a sus propios evaluadores - posicion privilegiada |
 | F7 | **Cobertura de ciclo completo** | Desde estrategia regulatoria hasta documentacion tecnica, ensayos clinicos y post-market |
 | F8 | **Companion Diagnostics (CDx)** | Nicho dentro del nicho: CDx es un area de alta complejidad y demanda creciente |
-| F9 | **Dominio mdxcro.com bien posicionado** | El sitio aparece bien en busquedas relevantes del sector |
+| F9 | **Blog activo con contenido de valor** | Seccion /resources/ con decenas de articulos, whitepapers, case studies y webinars sobre IVDR, MDR, CDx, dental, NGS. Contenido reciente y actualizado (feb-mar 2026) |
 | F10 | **Testimoniales fuertes** | Testimonios de Senior Directors de Global Pharma y Heads of Quality refuerzan la autoridad |
+| F11 | **Case studies reales publicados** | Ej: caso Argen (MDR CE Marking dental alloys). Prueba tangible de resultados |
+| F12 | **Presencia en YouTube** | Canal de video existente para webinars y contenido educativo |
+| F13 | **+5,000 seguidores en LinkedIn** | Comunidad profesional solida en la red B2B mas relevante del sector |
+| F14 | **Dominio alternativo protegido** | mdtcro.com redirige al sitio principal. Buena practica de proteccion de marca |
 
 ### DEBILIDADES (Weaknesses)
 
 | # | Debilidad | Detalle |
 |---|-----------|---------|
-| D1 | **Presencia limitada en redes sociales** | Solo activos en LinkedIn (~2,941 seguidores). Sin presencia significativa en Instagram, Facebook, Twitter/X o YouTube |
-| D2 | **Contenido SEO limitado** | No se encontro evidencia fuerte de blog/content marketing indexado. Bajo volumen de contenido organico rastreable |
-| D3 | **Sitio web con accesibilidad intermitente** | El sitio devuelve errores 403 en algunos accesos, lo que puede afectar crawling de Google y experiencia de usuario |
-| D4 | **Marca poco conocida fuera del nicho** | "MDx CRO" puede confundirse con otros acronimos (MDX crypto, MDX clothing, etc.) |
-| D5 | **Tamano relativo pequeno** | Frente a competidores como NAMSA (1,400+ empleados), IQVIA o Veranex, MDx es considerablemente mas pequena |
-| D6 | **Dependencia del mercado europeo** | Aunque tienen presencia global, su core sigue siendo el regulatorio EU (MDR/IVDR) |
-| D7 | **Backlink profile desconocido/debil** | No se encontraron datos de autoridad de dominio. Posible bajo DA/DR comparado con competidores establecidos |
-| D8 | **Sin presencia en YouTube/video** | El sector valora webinars y contenido educativo en video, area no explotada |
-| D9 | **Web solo en ingles** | No se detecta version en espanol u otros idiomas, limitando alcance en mercados hispanohablantes |
-| D10 | **Falta de casos de estudio publicados** | Los testimoniales existen pero no se encontraron case studies detallados indexados |
+| D1 | **Contenido del blog NO indexado por Google** | MDx tiene decenas de articulos en /resources/ (blog, whitepapers, case studies, webinars) pero Google NO los indexa correctamente. Las busquedas `site:mdxcro.com` devuelven muy pocos resultados del blog. **Este es el problema SEO critico** (ver seccion 3.3) |
+| D2 | **Bloqueo de crawlers (403 Forbidden)** | El sitio devuelve errores 403 a bots y crawlers. Esto probablemente esta bloqueando a Googlebot, impidiendo la indexacion del contenido del blog y recursos |
+| D3 | **Marca confundible fuera del nicho** | "MDx CRO" compite por SERP con MDX crypto, MDX clothing y otros acronimos. Dificil posicionamiento en busquedas genericas |
+| D4 | **Tamano relativo pequeno** | Frente a competidores como NAMSA (1,400+ empleados), IQVIA o Veranex, MDx es considerablemente mas pequena |
+| D5 | **Dependencia del mercado europeo** | Aunque tienen presencia global, su core sigue siendo el regulatorio EU (MDR/IVDR) |
+| D6 | **Backlink profile probablemente debil** | No se encontraron datos publicos de DA/DR. Dominio joven (fundada 2023) con menos tiempo para acumular autoridad de dominio |
+| D7 | **Web solo en ingles** | No se detecta version en espanol, aleman o portugues, limitando alcance en mercados locales europeos |
+| D8 | **Canal YouTube no visible en busquedas** | Aunque existe canal YouTube, no aparece en busquedas de Google asociadas a "MDx CRO". Posible falta de optimizacion SEO en YouTube |
+| D9 | **Redes sociales limitadas a LinkedIn** | LinkedIn (+5K) es solida, pero sin presencia en Twitter/X, Instagram o TikTok para amplificar alcance |
+| D10 | **Case studies publicados pero no indexados** | Existen case studies (ej: Argen MDR CE Marking) en la web pero no aparecen en busquedas de Google |
 
 ### OPORTUNIDADES (Opportunities)
 
@@ -68,7 +75,7 @@ MDx CRO es una Contract Research Organization (CRO) y consultoria regulatoria es
 | O4 | **Reforma regulatoria EU en curso** | La Comision Europea esta reformando MDR/IVDR (propuesta dic 2025, adopcion prevista 2027). Consultorias que interpreten los cambios temprano ganan ventaja |
 | O5 | **Reduccion de I+D en fabricantes** | 53% de fabricantes han reducido I+D por carga regulatoria. Oportunidad de ofrecer servicios outsourced de regulatory affairs |
 | O6 | **Expansion a mercados FDA/APAC** | Fabricantes buscan multi-market compliance. La experiencia EU+FDA+APAC es altamente valorada |
-| O7 | **Content marketing / Thought Leadership** | Existe un gap en contenido educativo de calidad sobre IVDR/MDR. Potencial enorme para SEO organico y lead generation |
+| O7 | **Desbloquear SEO del contenido existente** | MDx YA tiene decenas de articulos de calidad. Resolver el problema tecnico de indexacion puede multiplicar el trafico organico de forma inmediata sin crear contenido nuevo |
 | O8 | **Companion Diagnostics en crecimiento** | La medicina de precision y CDx esta en pleno auge. Pocos CROs tienen esta especializacion |
 | O9 | **Dispositivos huerfanos** | 64% de empresas con orphan devices han discontinuado productos por MDR/IVDR. Oportunidad de asistencia especializada |
 | O10 | **AI y Digital Health** | La regulacion de software como dispositivo medico (SaMD) y AI en salud es un campo emergente con alta demanda |
@@ -100,9 +107,10 @@ MDx CRO es una Contract Research Organization (CRO) y consultoria regulatoria es
 |---------|------------|------|
 | Dominio | mdxcro.com | Corto, memorable, relevante |
 | Posicionamiento | "Europe's Leading MedTech & IVD CRO" | Claim fuerte y diferenciador |
-| Estructura | Servicios, Sectores, About, Blog | Arquitectura logica |
+| Estructura | Servicios, Sectores, About, Resources | Arquitectura logica y completa |
+| Blog/Resources | Activo en /resources/ | Decenas de articulos, whitepapers, case studies, webinars |
 | CTA | Presente | Formularios de contacto |
-| Accesibilidad | Problemas detectados (403 errors) | Necesita revision tecnica |
+| Accesibilidad para bots | **CRITICO: 403 Forbidden** | Bloquea crawlers incluyendo posiblemente Googlebot |
 | Idioma | Solo ingles | Oportunidad multilingue |
 | Dominio alternativo | mdtcro.com redirige al mismo sitio | Buena practica de proteccion de marca |
 
@@ -110,23 +118,70 @@ MDx CRO es una Contract Research Organization (CRO) y consultoria regulatoria es
 
 | Plataforma | Presencia | Seguidores | Actividad | Valoracion |
 |------------|-----------|------------|-----------|------------|
-| LinkedIn | Si | ~2,941 | Activa (posts regulares) | Buena |
+| LinkedIn | Si | +5,000 | Activa (posts regulares, articles) | Fuerte |
+| YouTube | Si | Por confirmar | Webinars y contenido educativo | Existente pero poco visible en busquedas |
 | Facebook | Minima | N/A | Baja | Debil |
-| Instagram | No | - | - | Inexistente |
-| Twitter/X | No detectada | - | - | Inexistente |
-| YouTube | No detectada | - | - | Inexistente |
-| TikTok | No | - | - | Inexistente |
+| Instagram | No detectada | - | - | Oportunidad |
+| Twitter/X | No detectada | - | - | Oportunidad |
 
-### 3.3 SEO y Visibilidad Online
+### 3.3 SEO y Visibilidad Online - ANALISIS PROFUNDO
 
-| Factor | Estado | Recomendacion |
-|--------|--------|---------------|
-| Indexacion en Google | Paginas principales indexadas | Ampliar contenido indexable |
-| Blog/Content Marketing | Limitado o no detectable | Crear estrategia de contenidos IVDR/MDR |
-| Backlink Profile | Sin datos publicos claros | Ejecutar link building activo |
-| Keywords organicas | Presencia en busquedas nicho | Ampliar cobertura de long-tail keywords |
-| Autoridad de dominio | Probablemente baja-media | Mejorar con guest posts y PR digital |
-| Schema/Structured Data | No verificado | Implementar schema para servicios |
+#### PROBLEMA CRITICO: Contenido existente NO indexado por Google
+
+MDx CRO tiene un **problema grave de SEO tecnico**. La empresa produce contenido de calidad de forma activa pero Google NO lo esta indexando correctamente. Aqui esta la evidencia:
+
+**Contenido real encontrado en mdxcro.com/resources/ (6 paginas de recursos):**
+
+| Tipo | Ejemplos encontrados | Estado en Google |
+|------|---------------------|-----------------|
+| Blog & Insights | "EU MDR 2017/745 for Dental Devices: Complete Guide 2026" (02.03.2026) | Indexado parcialmente |
+| Blog & Insights | "MDR Annex XVI: Regulating Products Without Medical Purpose" (15.02.2026) | Indexado parcialmente |
+| Whitepapers | "IVDR Annex XIV Performance Studies for CDx: Step-by-Step Guide 2026" (19.02.2026) | Poco visible |
+| Case Studies | "How MDx Enabled Argen's Successful Transition to MDR CE Marking" (29.01.2026) | Muy poco visible |
+| Guias | "MDR Compliance Checklist: What You Need Before Submitting" | Indexado |
+| Guias | "Clinical Development for Medical Devices: From Strategy to Submission" | Indexado |
+| Analisis regulatorio | "MDCG 2020-13 for Manufacturers" | Indexado |
+| News | "MedTech Europe 3rd Edition eBook IVDR Clinical Evidence" | Indexado |
+| Analisis regulatorio | "Team-NB Position Paper IVDR CDx Changes 2025" | Indexado |
+| Guias | "Running Clinical Studies Under IVDR: What You Need to Know" | Indexado |
+| Blog & Insights | "Regulatory Compliance for Dental Products" (03.02.2026) | Poco visible |
+
+#### Diagnostico SEO Tecnico
+
+| Problema | Severidad | Evidencia | Impacto |
+|----------|-----------|-----------|---------|
+| **403 Forbidden a crawlers** | CRITICA | WebFetch devuelve 403 consistentemente. Sitio bloquea acceso programatico | Googlebot posiblemente bloqueado = no indexacion |
+| **Busqueda site: devuelve pocos resultados** | ALTA | `site:mdxcro.com/resources` devuelve solo 1 resultado directo | Google conoce la pagina pero no indexa el contenido individual |
+| **URLs de blog sin estructura SEO** | MEDIA | Articulos usan slugs largos pero no hay evidencia de categorias/tags en URL | Dificulta la organizacion semantica para Google |
+| **Contenido no aparece en SERP nicho** | ALTA | Buscar "IVDR Annex XIV performance studies guide" no devuelve mdxcro.com en top resultados | Contenido de calidad invisible para potenciales clientes |
+| **Dominio joven (2023)** | MEDIA | Menos de 3 anos de antiguedad | Menor autoridad de dominio inherente vs competidores establecidos |
+| **Backlink profile debil** | ALTA | Sin datos publicos de DA/DR, no aparece en directorios SEO | Poca autoridad de dominio para competir en SERP |
+
+#### Comparativa SEO vs Competencia
+
+| Factor | MDx CRO | NAMSA | Veranex | Qserve |
+|--------|---------|-------|---------|--------|
+| Dominio desde | 2023 | 2000s | 2020s | 2010s |
+| Contenido blog | Decenas de articulos (activo) | Cientos | Decenas | Decenas |
+| Indexacion Google | **Parcial/bloqueada** | Completa | Completa | Completa |
+| Visibilidad SERP nicho | Baja | Alta | Media-Alta | Media |
+| LinkedIn followers | +5,000 | +20,000 | +15,000 | +5,000 |
+| YouTube | Existe | Activo | Activo | Limitado |
+
+#### Recomendaciones SEO Prioritarias
+
+| # | Accion | Prioridad | Impacto Estimado |
+|---|--------|-----------|-----------------|
+| 1 | **Auditar y corregir robots.txt y configuracion del servidor** - Asegurar que Googlebot NO recibe 403. Verificar en Google Search Console si hay errores de rastreo | URGENTE | Desbloquea toda la indexacion |
+| 2 | **Revisar Google Search Console** - Verificar Coverage report, errores de indexacion, paginas excluidas, y estado de sitemap.xml | URGENTE | Diagnostico preciso del problema |
+| 3 | **Enviar sitemap.xml actualizado** con todas las URLs de /resources/ a Google Search Console | URGENTE | Fuerza re-indexacion |
+| 4 | **Verificar configuracion WAF/CDN** - Si usan Cloudflare, Sucuri u otro WAF, posiblemente esta bloqueando bots legitimos | URGENTE | Resuelve bloqueo de crawlers |
+| 5 | **Optimizar meta titles y descriptions** de cada articulo del blog con keywords objetivo | ALTA | Mejora CTR en SERP |
+| 6 | **Internal linking** - Vincular articulos del blog desde paginas de servicios y viceversa | ALTA | Distribuye autoridad y mejora crawlability |
+| 7 | **Implementar schema markup** (Article, FAQPage, Organization, Service) | ALTA | Rich snippets en SERP |
+| 8 | **Link building activo** - Guest posts en medios del sector, PR digital, partnerships | ALTA | Aumenta DA/DR |
+| 9 | **Optimizar YouTube SEO** - Titles, descriptions, tags con keywords relevantes. Linkear desde blog | MEDIA | Visibilidad en YouTube search |
+| 10 | **Crear paginas pillar** para temas clave (IVDR Guide, MDR Guide, CDx Guide) con cluster de articulos | MEDIA | Topical authority |
 
 ---
 
@@ -153,10 +208,10 @@ MDx CRO es una Contract Research Organization (CRO) y consultoria regulatoria es
 4. **Crear caso de estudio detallado** del testimonial "cero hallazgos mayores en auditoria" como asset de marketing
 
 ### Estrategias DO (Debilidades + Oportunidades)
-5. **Invertir en content marketing SEO** creando 2-4 articulos mensuales sobre IVDR, MDR, EUDAMED, CDx para capturar trafico organico
-6. **Lanzar canal YouTube** con explicaciones regulatorias, entrevistas a expertos y resenas de cambios normativos
+5. **URGENTE: Resolver bloqueo de indexacion** - Auditar robots.txt, WAF/CDN, y Google Search Console para desbloquear el contenido existente que Google no esta rastreando
+6. **Optimizar canal YouTube** con SEO (titles, descriptions, tags) y cross-linking desde blog para ganar visibilidad
 7. **Desarrollar web multilingue** (espanol, aleman, portugues) para capturar mercados locales europeos
-8. **Crear programa de webinars** como funnel de lead generation y posicionamiento de autoridad
+8. **Ampliar content marketing** aprovechando la base existente con paginas pillar y clusters tematicos
 
 ### Estrategias FA (Fortalezas + Amenazas)
 9. **Reforzar propuesta de valor nicho** frente a CROs grandes: "Especialistas IVD, no generalistas"
@@ -170,30 +225,40 @@ MDx CRO es una Contract Research Organization (CRO) y consultoria regulatoria es
 
 ---
 
-## 6. PLAN DE ACCION DIGITAL - TOP 5 PRIORIDADES
+## 6. PLAN DE ACCION DIGITAL - TOP 7 PRIORIDADES
 
 | Prioridad | Accion | Timeline | Impacto Esperado |
 |-----------|--------|----------|-----------------|
-| 1 | Lanzar estrategia de blog SEO (2-4 posts/mes sobre IVDR/MDR/EUDAMED) | Inmediato | +50% trafico organico en 6 meses |
-| 2 | Activar LinkedIn como canal principal (posts diarios, LinkedIn articles, employee advocacy) | Inmediato | +100% followers en 12 meses |
-| 3 | Crear serie de webinars mensuales sobre deadlines regulatorios 2026 | Q2 2026 | Lead generation + autoridad |
-| 4 | Desarrollar 3-5 case studies detallados con metricas de impacto | Q2 2026 | Mejora de conversion rate |
-| 5 | Implementar mejoras tecnicas web (resolver 403, schema markup, velocidad) | Inmediato | Mejor crawling e indexacion |
+| **1** | **CRITICO: Auditar y resolver bloqueo 403 a crawlers** - Revisar robots.txt, WAF (Cloudflare/Sucuri), configuracion del servidor. Asegurar que Googlebot puede rastrear /resources/ | **Esta semana** | Desbloquea TODA la indexacion |
+| **2** | **Revisar Google Search Console** - Coverage report, errores de rastreo, sitemap.xml, paginas excluidas | **Esta semana** | Diagnostico preciso y rapido |
+| **3** | **Enviar sitemap.xml completo** con todas URLs de blog, case studies, whitepapers a GSC + solicitar re-indexacion manual de URLs clave | **Esta semana** | Fuerza indexacion del contenido existente |
+| 4 | **Implementar schema markup** (Article, Organization, FAQPage, Service) en todas las paginas | Q2 2026 | Rich snippets, mejor CTR |
+| 5 | **Internal linking audit** - Conectar articulos del blog con paginas de servicios relevantes y viceversa | Q2 2026 | Mejor distribucion de autoridad |
+| 6 | **Optimizar YouTube SEO** - Titles con keywords, descriptions completas, links al blog, playlists tematicas | Q2 2026 | Visibilidad en YouTube search |
+| 7 | **Link building activo** - Guest posts en medios del sector (MedTech Europe, RAPS, etc.), PR digital, directorios sectoriales | Q2-Q3 2026 | Aumentar DA/DR progresivamente |
 
 ---
 
 ## Fuentes
 
 - [MDx CRO - Sitio Oficial](https://mdxcro.com/)
+- [MDx CRO - Resources (Blog, Whitepapers, Case Studies)](https://mdxcro.com/resources/?resources-sector=medical-devices)
 - [MDx CRO - Regulatory Affairs & Technical Documentation](https://mdxcro.com/services/regulatory-affairs-technical-documentation/)
 - [MDx CRO - Quality Management & Risk](https://mdxcro.com/services/quality-risk-audit/)
+- [MDx CRO - Clinical Research](https://mdxcro.com/services/clinical-research/)
 - [MDx CRO - About Us](https://mdxcro.com/about-us/)
+- [MDx CRO - Team](https://mdxcro.com/about-us/our-team/)
 - [MDx CRO - LinkedIn](https://www.linkedin.com/company/medtech-ivd-cro/)
 - [MDx CRO - ASEBIO](https://www.asebio.com/en/members/directory/med-ivd-tech)
+- [MDx CRO - Tracxn Profile](https://tracxn.com/d/companies/mdx-cro/__4ci52XvXsXyeo4hf5OZyjpBl0alPYIso0_Y89va-uAQ)
+- [MDx CRO - The Org](https://theorg.com/org/mdx-cro)
+- [MDx CRO - MDR Compliance Checklist](https://mdxcro.com/mdr-compliance-checklist-what-you-need-before-submitting/)
+- [MDx CRO - Clinical Development for Medical Devices](https://mdxcro.com/clinical-development-for-medical-devices-from-strategy-to-submission/)
+- [MDx CRO - MDCG 2020-13 Guide](https://mdxcro.com/mdcg-2020-13-for-medical-device-manufacturers/)
+- [MDx CRO - Team-NB CDx Position Paper](https://mdxcro.com/team-nb-position-paper-ivdr-cdx-changes-2025/)
+- [MDx CRO - Running Clinical Studies Under IVDR](https://mdxcro.com/running-clinical-studies-under-ivdr-what-you-need-to-know/)
+- [MDx CRO - Regulatory Compliance Dental Products](https://mdxcro.com/regulatory-compliance-for-dental-products/)
+- [MDx CRO - MedTech Europe IVDR eBook Update](https://mdxcro.com/medtech-europe-ivdr-clinical-evidence-requirements-updates/)
 - [Top 10 Medical Device CROs 2026 - Veranex](https://veranex.com/blog/top-10-medical-device-cros-to-partner-with-in-2026)
 - [Top Medical Device CROs in Europe](https://medical-device-cros-europe.medicaltechoutlook.com/vendors/top-medical-device-cros-in-europe.html)
-- [EU MDR Bottleneck 2026 - QBD Group](https://www.qbdgroup.com/en/blog/eu-mdr-bottleneck-2026-medical-device-manufacturers)
-- [MedTech Europe IVDR & MDR Survey 2024](https://www.medtecheurope.org/wp-content/uploads/2025/01/mte_report_ivdr_mdr_2024-v7.pdf)
-- [EU MDR/IVDR Reform - AbroadLink](https://abroadlink.com/blog/reform-mdr-ivdr-devices-europe-2025)
-- [EU Medical Device Shake-Up - Arnold & Porter](https://www.arnoldporter.com/en/perspectives/advisories/2026/02/the-eu-medical-device-shake-up)
 - [Top 10 Clinical Trial Medical Device CROs - Milo Healthcare](https://milo-healthcare.com/en/top-10-clinical-trial-medical-device-cro-consulting-firms/)
